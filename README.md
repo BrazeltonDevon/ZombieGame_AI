@@ -13,3 +13,5 @@ The bot is also always pursued by zombies including special TANKS that have more
 The purpose of this project is to make an efficient AI that handles resource management, search and collection of items, finding and killing zombies, and generally surviving for as long as possible.
 The bot also has the ability to sprint at the cost of using more energy during the time spent sprinting.
 This project employs various methods of achieving these ends such as behavior trees, blackboards, and logic state machines.
+
+![ezgif-4-6a34549db6](https://github.com/BrazeltonDevon/ZombieGame_AI/assets/96618671/6880c855-02e8-4a51-91b3-7e1d4d5411d7)
